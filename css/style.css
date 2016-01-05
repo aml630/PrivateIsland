@@ -1,0 +1,25 @@
+h1 {
+  color: green;
+  font-weight: bold;
+  text-align: center;
+  transition-duration: 2s;
+
+
+}
+
+h1:hover {
+  transition-duration: 2s;
+  color:blue;
+  font-size: 40px;
+}
+
+li {
+  text-align: center;
+  font-size: 24px;
+
+}
+
+h2 {
+  text-align: center;
+  text-shadow: 1px 1px #999;
+}
