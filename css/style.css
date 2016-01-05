@@ -1,8 +1,23 @@
-img {
-  transition-duration: 5s;
+p {
+  font-size: 15px;
+  font-family: sans-serif;
+  color: green;
 }
 
-img:hover {
-  transition-duration: 5s;
-  color:#fff;
+p:hover {
+  transition-duration:3s;
+  font-size:20px;
+  color:red;
+}
+
+a:hover {
+  color: black;
+}
+
+a {
+  color:blue;
+}
+
+h2 {
+  text-align: center;
 }
